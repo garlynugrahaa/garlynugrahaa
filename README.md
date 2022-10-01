@@ -8,8 +8,8 @@ My name is Garly Nugraha, you can call me Garly or Garl. I am a software develop
 - Discuss with <a href="https://instagram.com/garllovers">Instagram</a> and <a href="https://twitter.com/garllovers">Twitter</a>
 
 <a href="https://github.com/garllovers/garllovers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlloffic&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garllovers&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/garlloffic/garllovers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garlloffic&show_icons=true&theme=tokyonight&line_height=27" alt="Garllovers GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garllovers&show_icons=true&theme=tokyonight&line_height=27" alt="Garllovers GitHub stats" />
 </a>
