@@ -1,7 +1,7 @@
 # Hi, Coders! 👋
 
 
-My name is Garly Nugraha, you can call me Garly or Garl. I am a software developer with problem solving skills in creating and designing software in test environments. I'm from Indonesia, living in Bandung and currently studying at the Bandung State Polytechnic.
+My name is Garly Nugraha, you can call me Garlleee or Garl. I am a software developer with problem solving skills in creating and designing software in test environments. I'm from Indonesia, living in Bandung and currently studying at the Bandung State Polytechnic.
 
 ### Find me on 🌎:
 - Learning in public on <a href="https://www.garlleee.xyz">My Website</a>
