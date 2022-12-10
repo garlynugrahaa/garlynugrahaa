@@ -5,11 +5,11 @@ My name is Garly Nugraha, you can call me Garlleee or Garl. I am a software deve
 
 ### Find me on 🌎:
 - Learning in public on <a href="https://www.garlleee.xyz">My Website</a>
-- Discuss with <a href="https://instagram.com/garlleee">Instagram</a> and <a href="https://twitter.com/garlleee">Twitter</a>
+- Discuss with <a href="https://instagram.com/garlleeen">Instagram</a> and <a href="https://twitter.com/garlleeen">Twitter</a>
 
 <a href="https://github.com/garllovers/garlleee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlleee&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=garlleeen&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/garlloffic/garlleee">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garlleee&show_icons=true&theme=tokyonight&line_height=27" alt="Garlleee GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garlleeen&show_icons=true&theme=tokyonight&line_height=27" alt="Garlleee GitHub stats" />
 </a>
