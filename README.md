@@ -11,5 +11,5 @@ My name is Garly Nugraha, you can call me Garly or Garll. I am a software develo
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisgarll&langs_count=3&hide=html,css&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/thisisgarll/thisisgarll">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=garlleeen&show_icons=true&theme=tokyonight&line_height=27" alt="Garll GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisisgarll&show_icons=true&theme=tokyonight&line_height=27" alt="Garll GitHub stats" />
 </a>
